@@ -11,20 +11,20 @@ Welcome to my GitHub profile! I'm a **Quality Engineering Analyst** with a stron
 
 ### About Me
 
-I'm currently working at **Accenture Solutions Pvt. Ltd.** where I focus on leveraging **shell scripts for automation**, specifically for monitoring and upgrading systems[cite: 3]. I have successfully deployed and configured numerous **WebMethods JVMs and IBM MQ servers** on Linux VMs for critical go-live projects[cite: 3]. My role also involves developing WebMethods code for administrative purposes [cite: 4] and creating Excel dashboards for large-scale data representation[cite: 5]. I'm also skilled in developing automation for regular tasks like SSL Certificate renewal and JVM upgrades[cite: 6].
+I'm currently working at **Accenture Solutions Pvt. Ltd.** where I focus on leveraging **shell scripts for automation**, specifically for monitoring and upgrading systems. I have successfully deployed and configured numerous **WebMethods JVMs and IBM MQ servers** on Linux VMs for critical go-live projects. My role also involves developing WebMethods code for administrative purposes and creating Excel dashboards for large-scale data representation. I'm also skilled in developing automation for regular tasks like SSL Certificate renewal and JVM upgrades.
 
-I hold a **Master of Business Administration with a specialization in Data Science** from Manipal Academy of Higher Education and a **Bachelor of Science in Maths** (with minors in Physics and Chemistry) from North Bengal University - Siliguri College[cite: 1].
+I hold a **Master of Business Administration with a specialization in Data Science** from Manipal Academy of Higher Education and a **Bachelor of Science in Maths** (with minors in Physics and Chemistry) from North Bengal University - Siliguri College.
 
 ---
 
 ### Technical Skills
 
-* **Languages:** Java, Python (pandas, NumPy, Matplotlib), C/C++, SQL, LaTeX [cite: 1]
-* **Developer Tools:** Eclipse [cite: 1]
-* **Middleware/Platforms:** Software AG WebMethods Designer, Universal Messaging Enterprise Manager, IBM (WebSphere) MQ Explorer, IBM App Connect Enterprise Toolkit [cite: 1]
-* **Cloud:** Azure (Microsoft Certified: Azure Fundamentals AZ-900) [cite: 1]
-* **Automation:** BluePrism (basic UI automation) [cite: 1]
-* **Scripting:** Shell scripting [cite: 3]
+* **Languages:** Java, Python (pandas, NumPy, Matplotlib), C/C++, SQL, LaTeX 
+* **Developer Tools:** Eclipse 
+* **Middleware/Platforms:** Software AG WebMethods Designer, Universal Messaging Enterprise Manager, IBM (WebSphere) MQ Explorer, IBM App Connect Enterprise Toolkit 
+* **Cloud:** Azure (Microsoft Certified: Azure Fundamentals AZ-900) 
+* **Automation:** BluePrism (basic UI automation) 
+* **Scripting:** Shell scripting 
 
 ---
 
@@ -34,12 +34,12 @@ Here are a few projects that highlight my skills and interests:
 
 #### 1. LaTeX Document Preparation (Overleaf LaTeX, Mathtools, Beamer, GraphicX)
 
-* **Description:** This project showcases my proficiency in using LaTeX for professional document and presentation preparation. I've used it to prepare and present graduation seminars with advanced features like page control and PPT-like functionalities[cite: 7]. I've also presented advanced calculus papers with better support for mathematical notations[cite: 8]. Even this resume was developed in LaTeX[cite: 9]!
+* **Description:** This project showcases my proficiency in using LaTeX for professional document and presentation preparation. I've used it to prepare and present graduation seminars with advanced features like page control and PPT-like functionalities. I've also presented advanced calculus papers with better support for mathematical notations. Even this resume was developed in LaTeX!
 * **Key Skills:** Technical Documentation, Academic Presentation, Typesetting.
 
 #### 2. Mathematical Computations (LaTeX, C++)
 
-* **Description:** In this project, I developed C++ code to perform various mathematical computations, including integral calculus, transcendental and polynomial equations, and numerical interpolation[cite: 10].
+* **Description:** In this project, I developed C++ code to perform various mathematical computations, including integral calculus, transcendental and polynomial equations, and numerical interpolation.
 * **Key Skills:** C++ Programming, Numerical Methods, Algorithm Development.
 
 ---
@@ -47,20 +47,20 @@ Here are a few projects that highlight my skills and interests:
 ### Experience
 
 **Quality Engineering Analyst** | Accenture Solutions Pvt. Ltd.
-*January 2022 - Present* [cite: 2]
-* Working extensively with shell scripts for automation, used for monitoring and up-gradation[cite: 3].
-* Successfully deployed and configured numerous WebMethods JVMs and IBM MQ servers on Linux VMs for critical go-live projects[cite: 3].
-* Worked in the development of WebMethods code for Administrative purposes[cite: 4].
-* Prepared dashboards in Excel for easy representation of large-scale data[cite: 5].
-* Developed automation for regular tasks like SSL Certificate renewal and JVM upgrade[cite: 6].
+*January 2022 - Present* 
+* Working extensively with shell scripts for automation, used for monitoring and up-gradation.
+* Successfully deployed and configured numerous WebMethods JVMs and IBM MQ servers on Linux VMs for critical go-live projects.
+* Worked in the development of WebMethods code for Administrative purposes.
+* Prepared dashboards in Excel for easy representation of large-scale data.
+* Developed automation for regular tasks like SSL Certificate renewal and JVM upgrade.
 
 ---
 
 ### Certifications & Courses
 
-* **Azure: AZ-900 Microsoft Certified: Azure Fundamentals** [cite: 1]
-* **BluePrism: Completed basic UI automation course** [cite: 1]
+* **Azure: AZ-900 Microsoft Certified: Azure Fundamentals** 
+* **BluePrism: Completed basic UI automation course** 
 
 ---
 
-Feel free to explore my repositories to see my work. I'm always open to connecting and discussing new opportunities!
+Feel free to explore my repositories to see my work. I'm always open to connecting and discussing new opportunities! (Still building it ;))

@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwapriyo.sarkar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishwapriyosarkar@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)]([https://fb.com]([https://www.facebook.com/share/1AcHoZrZk9/](https://www.facebook.com/bishwapriyos/?_rdr)
 
 Welcome to my GitHub profile! I'm a **Quality Engineering Analyst** with a strong background in automation, system deployment, and data management. My expertise lies in streamlining operations and ensuring robust system performance.
 
